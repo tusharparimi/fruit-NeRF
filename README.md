@@ -3,11 +3,11 @@
 This project implements a custom NeRF (Neural Radiance Fields) model for creating a 3d model using the input images of frruit images taken in my bedroom. The NeRF model taken a bunch of images and its camera poses information to create a 3d model of the scene. COLMAP was used to generate the pose information from the fruit images.
 
 ### Results
-- results as the training progresses,
+- results as the training progress, (gif)
 
 ![](https://github.com/tusharparimi/fruit-NeRF/blob/main/training_newfruit_50.gif)
 
-- final 360-degree scene,
+- final 360-degree scene, (gif)
 
 <img src="https://github.com/tusharparimi/fruit-NeRF/blob/main/rgb_video_newfruit.gif" width="150" height="200"/>
 
