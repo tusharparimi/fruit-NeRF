@@ -11,6 +11,8 @@ This project implements a custom NeRF (Neural Radiance Fields) model for creatin
 
 ![](https://github.com/tusharparimi/fruit-NeRF/blob/main/rgb_video_newfruit.gif)
 
+<img src="https://github.com/tusharparimi/fruit-NeRF/blob/main/rgb_video_newfruit.gif" width="250" height="250"/>
+
 ### Extracting camera poses from COLMAP and implementing NERF:
 - Download and install the COLMAP using the pre-built binaries or from source.
 - Download the colmap2nerf.py script from NVlab’s [instant-ngp](https://github.com/NVlabs/instant-ngp/tree/master/scripts) github.
