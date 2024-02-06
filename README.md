@@ -9,8 +9,6 @@ This project implements a custom NeRF (Neural Radiance Fields) model for creatin
 
 - final 360-degree scene,
 
-![](https://github.com/tusharparimi/fruit-NeRF/blob/main/rgb_video_newfruit.gif)
-
 <img src="https://github.com/tusharparimi/fruit-NeRF/blob/main/rgb_video_newfruit.gif" width="150" height="200"/>
 
 ### Extracting camera poses from COLMAP and implementing NERF:
